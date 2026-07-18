@@ -7,14 +7,13 @@
 ## 🎯 Executive Summary
 This project bridges the gap between unstructured computer vision data and corporate process engineering. By analyzing over 100 hours of first-person, unscripted video action logs from the EPIC-KITCHENS dataset, I mapped complex human multitasking workflows and hand-object interactions. Utilizing Lean Six Sigma methodology, I isolated widespread operational bottlenecks, calculated industrial cycle times, and quantified motion waste. 
 
-The resulting **Operational Efficiency Matrix** provides a scalable framework for restaurant groups to justify capital expenditures on hardware automation, redesign physical prep layouts, and optimize standard operating procedures (SOPs).
+The resulting **Operational Efficiency Matrix** provides a scalable framework for restaurant groups to justify capital expenditures on hardware automation, redesign physical prep layouts.
 
 ---
 
 ## 🔍 Identified Kitchen Bottlenecks & Value Leaks
 * **Motion Waste (Layout Friction):** Action logs revealed cumulative time leakages where line cooks spent an average of 14% of their prep cycles searching for un-staged tools (knives, bowls) across disparate zones.
 * **Process Latency (Idle Time):** Significant task-sequencing bottlenecks were identified during multi-stage preparations, where operators stood idle waiting for passive processes (e.g., waiting for water to boil/appliances to cycle) instead of parallel-tasking.
-* **SOP Non-Compliance Risk:** Unscripted behavioral strings highlighted high-frequency physical transitions between handling raw ingredients and clean plates without documented sanitization interventions.
 
 ---
 
