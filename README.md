@@ -25,13 +25,13 @@ The resulting **Operational Efficiency Matrix** provides a scalable framework fo
 | **Average Prep Cycle Time** | 242 Seconds | 198 Seconds | **18.1% Throughput Increase** |
 | **Motion Waste / Staging Latency**| 34 Seconds / Task | 8 Seconds / Task | **76.4% Time Reduction** |
 | **Parallel-Task Idle Time** | 52 Seconds | 15 Seconds | **71.1% Efficiency Gain** |
-| **SOP Safety Compliance Rate** | 82.5% | 98.8% | **+1,630 BPS Improvement** |
+
 
 *Note: Calculations modeled on converting motion waste into productive prep intervals through standardized Mise en Place sequencing.*
 
 ---
 
 ## 💡 Strategic Corporate Recommendations
-1. **Capital Automation Deployment:** Transition high-volume, low-skill repetitive tasks (e.g., standard vegetable dicing) to automated processing hardware. Based on calculated labor rates ($20/hr), this scales to an estimated **$9,100+ in annual localized labor savings per station**.
+1. **Capital Automation Deployment:** Transition high-volume, low-skill repetitive tasks (e.g., peeling garlic,potato) to automated processing hardware. Based on calculated labor rates (****58 rs),** **this scales to an estimated ***1,10,000 rs** in annual localized labor savings per station**.
 2. **Ergonomic Re-Layout (Lean Staging):** Redesign the physical line geography to place tools within a fixed 3-foot radius of the primary workspace, systematically eliminating motion waste.
 3. **Smart Display Integration:** Implement automated, software-driven sequencing display monitors to push real-time prompts to cooks, maximizing parallel tasking during passive waiting windows.
